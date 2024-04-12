@@ -62,7 +62,7 @@
     };
   };
   config = {
-    theme = "paradise";
+    theme = "tokyonight";
     extraConfigLua = ''
       _G.theme = "${config.theme}"
     '';
